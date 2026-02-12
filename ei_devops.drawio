@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="29.3.8">
+  <diagram name="Page-1" id="HHz3EYfAy0K8sydKVkrZ">
+    <mxGraphModel dx="1489" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="180" width="290" x="185" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-6" edge="1" parent="1" source="Q8ByT42Ov3E9g2ZCI9JS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Q8ByT42Ov3E9g2ZCI9JS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Workspace selection" vertex="1">
+          <mxGeometry height="50" width="100" x="280" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="DEV&lt;div&gt;B1s&lt;/div&gt;&lt;div&gt;10.1.0.0/16&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="185" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="PROD&lt;div&gt;D2s_v3&lt;/div&gt;&lt;div&gt;10.2.0.0/16&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="250" width="380" x="140" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Locals" vertex="1">
+          <mxGeometry height="30" width="60" x="185" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Modules" vertex="1">
+          <mxGeometry height="30" width="60" x="140" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-14" edge="1" parent="1" source="Q8ByT42Ov3E9g2ZCI9JS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="Q8ByT42Ov3E9g2ZCI9JS-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-17" connectable="0" parent="Q8ByT42Ov3E9g2ZCI9JS-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Output subnet_id" vertex="1">
+          <mxGeometry relative="1" x="-0.2067" as="geometry">
+            <mxPoint x="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Network" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Compute" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="450" width="380" x="140" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8ByT42Ov3E9g2ZCI9JS-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Azure subnet" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="660" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
